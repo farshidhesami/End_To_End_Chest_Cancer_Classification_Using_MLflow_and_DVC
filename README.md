@@ -9,3 +9,7 @@
   to this.the `.gitkeep` file is not a built-in feature of Git. It's just a convention that many developers use.
 
 - open a terminal and write a "python template.py" and check the app.log file is created or not.
+
+- Add a "requirements.txt" file in a code and "setup.py" after that open a terminal and write a "pip install -r requirements.txt" .
+
+- 

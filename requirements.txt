@@ -1,0 +1,33 @@
+pandas
+notebook
+numpy
+tensorflow==2.12.0
+mlflow==2.11.0
+gdown
+dvc
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+tensorflow
+keras
+xgboost
+lightgbm
+seaborn
+scipy
+statsmodels
+nltk
+imbalanced-learn
+opencv-python
+plotly
+sqlalchemy
+gunicorn          # Added for WSGI server
+python-dotenv     # Added for environment variables management
+Flask-Talisman    # Added for security headers
+Flask-SeaSurf     # Added for CSRF protection
+-e .              # The `.` refers to the current directory, which should contain a `setup.py` file . 
